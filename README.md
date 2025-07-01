@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Özgür!
 
 ## 🚀 About Me
-Web developer from Uppsala building modern web applications
+Web developer from 🇸🇪 Sweden building modern web applications
 
 ## 🛠️ Tech Stack
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
