@@ -1,26 +1,27 @@
-# 👋 Hi, I'm Özgür!
+# 👋 Hi, I'm Özgür
 
-## 🚀 About Me
-Web developer from 🇸🇪 Sweden building modern web applications
+I'm a developer and entrepreneur based in Sweden.
 
-## 🛠️ Tech Stack
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Sanity](https://img.shields.io/badge/-Sanity-F03E2F?style=flat&logo=sanity&logoColor=white)
+After years of running businesses, I transitioned into software development and now spend my time building websites, e-commerce solutions, and exploring new product ideas.
 
+## Current Focus
 
-## 💻 Currently Learning
-- Advanced Next.js patterns
-- TypeScript best practices
-- Building scalable web applications
+- Next.js & React
+- TypeScript
+- Shopify Development
+- SwiftUI & iOS Development
+- AI-Assisted Development
 
-## 🎯 Focus
-- Creating custom web solutions
-- Building real-world projects
-- Mastering modern development tools
+## Interests
 
-## 📍 Uppsala, Sweden
+- Web Development
+- Mobile Apps
+- Product Design
+- User Experience
+- AI & Emerging Technology
 
----
-*Learning by building*
+## Philosophy
+
+Build useful things. Learn continuously. Stay curious.
+
+📍 Uppsala, Sweden
